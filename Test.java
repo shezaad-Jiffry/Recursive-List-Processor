@@ -1,5 +1,5 @@
 //Shezaad Jiffry 0300129568 A1
-public class Q3 {
+public class Test {
 
     private static void testCount(String first, String second, SinglyLinkedList<String> l){
         System.out.println("Distance between " + first
